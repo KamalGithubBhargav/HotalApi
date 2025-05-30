@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "The Grand Palace",
+    "location": "London, UK",
+    "rating": 4.5,
+    "description": "A luxurious hotel in the heart of London offering world-class amenities and services.",
+    "images": [ "grand-1.jpg", "grand-2.jpg", "grand-3.jpg" ]
+  },
+  {
+    "id": 2,
+    "name": "Sea Breeze Resort",
+    "location": "Brighton, UK",
+    "rating": 4.2,
+    "description": "A seaside resort perfect for families and beach lovers, featuring ocean-view rooms.",
+    "images": [ "breeze-1.jpg", "breeze-2.jpg", "breeze-3.jpg" ]
+  },
+  {
+    "id": 3,
+    "name": "Mountain Escape Lodge",
+    "location": "Lake District, UK",
+    "rating": 4.8,
+    "description": "Escape to the serenity of the mountains with cozy stays and adventure trails.",
+    "images": [ "mountain-1.jpg", "mountain-2.jpg", "mountain-3.jpg" ]
+  },
+  {
+    "id": 4,
+    "name": "Urban Oasis Hotel",
+    "location": "Manchester, UK",
+    "rating": 3.0,
+    "description": "Modern design meets comfort in this urban retreat with rooftop dining.",
+    "images": [ "urban-1.jpg", "urban-2.jpg", "urban-3.jpg" ]
+  },
+  {
+    "id": 5,
+    "name": "The Vintage Inn",
+    "location": "York, UK",
+    "rating": 4.6,
+    "description": "A historic inn with vintage charm and cozy rooms near city landmarks.",
+    "images": [ "vintage-1.jpg", "vintage-2.jpg", "vintage-3.jpg" ]
+  },
+  {
+    "id": 6,
+    "name": "Coastal Charm Hotel",
+    "location": "Cornwall, UK",
+    "rating": 4.3,
+    "description": "Charming coastal views, fresh seafood, and relaxing beach walks await you.",
+    "images": [ "coast-1.jpg", "coast-2.jpg", "coast-3.jpg" ]
+  },
+  {
+    "id": 7,
+    "name": "The Highland Retreat",
+    "location": "Scottish Highlands, UK",
+    "rating": 4.7,
+    "description": "Rustic retreat in the highlands, perfect for nature lovers and hikers.",
+    "images": [ "highland-1.jpg", "highland-2.jpg", "highland-3.jpg" ]
+  },
+  {
+    "id": 8,
+    "name": "The Capital Comfort",
+    "location": "Edinburgh, UK",
+    "rating": 2.1,
+    "description": "Located near Edinburgh Castle, offering modern amenities with Scottish flair.",
+    "images": [ "capital-1.jpg", "capital-2.jpg", "capital-3.jpg" ]
+  },
+  {
+    "id": 9,
+    "name": "Lakeside Inn",
+    "location": "Windermere, UK",
+    "rating": 4.4,
+    "description": "A lakeside gem with paddle boat rentals and sunset views.",
+    "images": [ "lake-1.jpg", "lake-2.jpg", "lake-3.jpg" ]
+  },
+  {
+    "id": 10,
+    "name": "Castleview Hotel",
+    "location": "Cardiff, UK",
+    "rating": 3.2,
+    "description": "Breathtaking views of Cardiff Castle, suitable for both business and leisure.",
+    "images": [ "castle-1.jpg", "castle-2.jpg", "castle-3.jpg" ]
+  },
+  {
+    "id": 11,
+    "name": "Harbor Lights Hotel",
+    "location": "Liverpool, UK",
+    "rating": 4.0,
+    "description": "Modern waterfront hotel with musical and maritime flair.",
+    "images": [ "harbor-1.jpg", "harbor-2.jpg", "harbor-3.jpg" ]
+  },
+  {
+    "id": 12,
+    "name": "The Crown Residency",
+    "location": "Birmingham, UK",
+    "rating": 2.6,
+    "description": "Elegant hotel with fine dining and spacious conference facilities.",
+    "images": [ "crown-1.jpg", "crown-2.jpg", "crown-3.jpg" ]
+  },
+  {
+    "id": 13,
+    "name": "The Northern Star",
+    "location": "Newcastle, UK",
+    "rating": 4.3,
+    "description": "Stylish rooms and vibrant nightlife just steps away.",
+    "images": [ "north-1.jpg", "north-2.jpg", "north-3.jpg" ]
+  },
+  {
+    "id": 14,
+    "name": "The Green Valley Hotel",
+    "location": "Bath, UK",
+    "rating": 4.7,
+    "description": "Sustainable hotel with spa services and green practices.",
+    "images": [ "green-1.jpg", "green-2.jpg", "green-3.jpg" ]
+  },
+  {
+    "id": 15,
+    "name": "Sunrise Hill Resort",
+    "location": "Devon, UK",
+    "rating": 3.5,
+    "description": "Resort-style hotel with hilltop views and wellness retreats.",
+    "images": [ "sunrise-1.jpg", "sunrise-2.jpg", "sunrise-3.jpg" ]
+  },
+  {
+    "id": 16,
+    "name": "Riverside Comfort Inn",
+    "location": "Norwich, UK",
+    "rating": 2.1,
+    "description": "Calm riverside stay near city attractions and nightlife.",
+    "images": [ "river-1.jpg", "river-2.jpg", "river-3.jpg" ]
+  },
+  {
+    "id": 17,
+    "name": "The Royal Heritage",
+    "location": "Cambridge, UK",
+    "rating": 3.6,
+    "description": "Blending history with luxury in the heart of Cambridge.",
+    "images": [ "royal-1.jpg", "royal-2.jpg", "royal-3.jpg" ]
+  },
+  {
+    "id": 18,
+    "name": "The Art House Hotel",
+    "location": "Oxford, UK",
+    "rating": 4.3,
+    "description": "Boutique hotel inspired by art and architecture of Oxford.",
+    "images": [ "art-1.jpg", "art-2.jpg", "art-3.jpg" ]
+  },
+  {
+    "id": 19,
+    "name": "Whispering Pines Resort",
+    "location": "Snowdonia, UK",
+    "rating": 4.8,
+    "description": "Nature resort surrounded by pine forests and mountain trails.",
+    "images": [ "pines-1.jpg", "pines-2.jpg", "pines-3.jpg" ]
+  },
+  {
+    "id": 20,
+    "name": "Sunset Sands Hotel",
+    "location": "Bournemouth, UK",
+    "rating": 4.2,
+    "description": "Stunning seaside views with sunset dining experiences.",
+    "images": [ "sunset-1.jpg", "sunset-2.jpg", "sunset-3.jpg" ]
+  }
+]

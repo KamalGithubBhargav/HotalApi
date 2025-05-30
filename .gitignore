@@ -1,0 +1,85 @@
+# Ignore build output folders
+bin/
+obj/
+.vs/
+
+# Ignore user-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Ignore Rider IDE files
+.idea/
+
+# Ignore Visual Studio Code files
+.vscode/
+
+# Ignore Resharper files
+_ReSharper*/
+*.ReSharper.*
+
+# Ignore NuGet packages folder
+packages/
+
+# Ignore project lock files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignore generated files
+*.generated.cs
+*.g.cs
+*.g.i.cs
+
+# Ignore publish output folder
+publish/
+
+# Ignore logs and temp files
+*.log
+*.vspscc
+*.vssscc
+
+# Ignore database files
+*.mdf
+*.ldf
+
+# Ignore secrets files
+secrets.json
+
+# Ignore runtime config files
+*.runtimeconfig.json
+
+# Ignore test results
+TestResults/
+*.trx
+
+# Ignore coverage files
+coverage.opencover.xml
+coverage.json
+*.coverage
+*.coveragexml
+
+# Ignore ASP.NET Scaffolding files
+ScaffoldingReadMe.txt
+
+# Ignore IIS Express files
+iisexpress/
+
+# Ignore JetBrains Rider
+.idea/
+
+# Ignore Azure Web App publish settings
+*.Publish.xml
+
+# Ignore EF Core Migrations files (optional, depends on your preference)
+Migrations/
+
+# Ignore dotnet tools
+.dotnet/
+
+# Ignore npm packages
+node_modules/
+
+# Ignore logs
+*.log
