@@ -56,6 +56,7 @@ npm install -g @angular/cli
    ```bash
    dotnet restore
    dotnet run
+   dotnet test
    ```
 
 4. The API will be available at `https://localhost:8000` or `http://localhost:8000`.
@@ -79,7 +80,16 @@ npm install -g @angular/cli
    npm start
    ```
 
-4. Visit the app in your browser at:
+4. Check test coverage frontend Angular app:
+   ```bash
+   ng test --code-coverage
+   ```
+   or
+   ```bash
+   ngx ng test --code-coverage
+   ```
+
+5. Visit the app in your browser at:
    [http://localhost:4200](http://localhost:4200)
 
 ---
